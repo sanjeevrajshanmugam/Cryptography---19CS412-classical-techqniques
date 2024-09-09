@@ -185,8 +185,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![Screenshot 2024-09-09 161603](https://github.com/user-attachments/assets/fa369c0d-7fec-448a-8fc3-3df7aaf207f5)
 
-![Screenshot 2024-09-02 182531](https://github.com/user-attachments/assets/045aa4e2-17b1-4298-93ff-19b562749a44)
 
 
 ## RESULT:
